@@ -40,6 +40,8 @@ public class Algorithm01 {
 	
 		// 수정!!
 		// main2에서 수정
+		// main에서 다시 수정
+		
 	}
 }
 
