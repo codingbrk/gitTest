@@ -39,6 +39,7 @@ public class Algorithm01 {
 		System.out.println("sum3 : " + sum3);
 	
 		// 수정!!
+		// main에서 수정
 	}
 }
 
