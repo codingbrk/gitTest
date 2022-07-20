@@ -38,7 +38,7 @@ public class Algorithm01 {
 		sum3 = j3.stream().mapToInt(i->i).sum();
 		System.out.println("sum3 : " + sum3);
 	
-		------------------- 브랜치 2에서 다운
+		------------------- 브랜치 2에서 다운   --- 브랜치 2에서 추가 수정
 		
 	}
 }
