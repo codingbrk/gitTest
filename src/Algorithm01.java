@@ -37,7 +37,9 @@ public class Algorithm01 {
 		
 		sum3 = j3.stream().mapToInt(i->i).sum();
 		System.out.println("sum3 : " + sum3);
-		
+	
+		// 수정!!
+		// main2에서 수정
 	}
 }
 
